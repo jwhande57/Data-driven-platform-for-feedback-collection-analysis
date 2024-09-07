@@ -2,7 +2,7 @@
 
 This project is developed as part of my capstone project in fulfillment of the **Diploma in Data Science** at **TelOne Center for Learning**. The Feedback Collection & Analysis App is designed to collect feedback from users, perform sentiment analysis, and generate insightful reports using advanced techniques like clustering and Large Language Models (LLMs).
 
-The app is accessible at: [this link](https://data-driven-platform-for-feedback-collection-analysis.streamlit.app)
+The app is accessible at: [this link](https://data-driven-platform-for-feedback-collection-analysis.streamlit.app/)
 
 ## Project Overview
 

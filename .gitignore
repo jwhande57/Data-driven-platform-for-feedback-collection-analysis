@@ -11,6 +11,6 @@ __pycache__/questionnaire.cpython-310.pyc
 __pycache__/save_data.cpython-310.pyc
 __pycache__/utils.cpython-310.pyc
 __pycache__/visualization.cpython-310.pyc
-.streamlit/config.toml
 .streamlit/secrets.toml
 .vscode/settings.json
+admin__.py
