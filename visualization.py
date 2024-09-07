@@ -10,7 +10,7 @@ import plotly.express as px
 
 def display_overview(filtered_df):
     col1, col2 = st.columns(2, gap='medium')
-    col1.image("assets\je160069c17c0efb0aaefefad9ce7c8f49.jpg")
+    col1.image("assets/je160069c17c0efb0aaefefad9ce7c8f49.jpg")
     col2.subheader("Mean satisfaction levels across various metrics.")
     mean_values = filtered_df.iloc[:, 4:14].select_dtypes(include='number').mean().round(2)
     col2.bar_chart(mean_values)

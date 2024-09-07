@@ -5,7 +5,7 @@ from analysis import generate_feedback_summary, generate_recommendations, predic
 
 def dashboard():
     df = load_data("data/student_feedback_data.csv")
-    st.sidebar.video("assets\Business data analytic interface fly over smart city showing alteration future o Footage Horse(MP4).mp4",autoplay=True,loop=True,muted=True)
+    st.sidebar.video("assets/viz.mp4",autoplay=True,loop=True,muted=True)
     # Sidebar for filtering options
     st.sidebar.title("Filters")
     years, months = df['date'].dt.year.unique(), df['date'].dt.month.unique()
