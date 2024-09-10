@@ -8,4 +8,4 @@ openai
 streamlit
 plotly
 numpy == 1.23.5
-distutils
+setuptools
