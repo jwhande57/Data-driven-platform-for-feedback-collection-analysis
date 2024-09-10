@@ -5,5 +5,5 @@ wordcloud == 1.9.3
 scikit-learn == 1.2.1
 textblob == 0.18.0.post0
 openai == 1.42.0
-streamlit == 1.37.1
+streamlit
 plotly == 5.9.0
