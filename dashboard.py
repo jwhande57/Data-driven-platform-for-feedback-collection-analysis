@@ -4,7 +4,7 @@ from visualization import display_overview
 from analysis import generate_feedback_summary, generate_recommendations, predict_future_trends
 
 def dashboard():
-    df = load_data("data/student_feedback_data.csv")
+    df = load_data("data/student_feedback_data_500.csv")
     st.sidebar.video("assets/viz.mp4",autoplay=True,loop=True,muted=True)
     # Sidebar for filtering options
     st.sidebar.title("Filters")
