@@ -7,3 +7,4 @@ textblob == 0.18.0.post0
 openai == 1.42.0
 streamlit
 plotly == 5.9.0
+numpy == 1.23.5
