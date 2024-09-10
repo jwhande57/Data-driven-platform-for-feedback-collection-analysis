@@ -1,10 +1,10 @@
 pandas
-seaborn == 0.12.2
+seaborn
 matplotlib
 wordcloud == 1.9.3
 scikit-learn
 textblob == 0.18.0.post0
-openai == 1.42.0
+openai
 streamlit
-plotly == 5.9.0
+plotly
 numpy == 1.23.5
